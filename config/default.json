@@ -1,0 +1,17 @@
+{
+  "driver-api": {
+    "host": "localhost",
+    "port": 9300,
+    "api_key": "MY_API_KEY"
+  },
+  "zmq": {
+    "host": "127.0.0.1",
+    "publish_port": 9100,
+    "router_port": 9101
+  },
+  "server": {
+    "host": "localhost",
+    "port": 9081,
+    "id": 0
+  }
+}

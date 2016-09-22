@@ -1,0 +1,6 @@
+bin
+.rbenv-version
+.ruby-version
+dump.rdb
+node_modules/
+npm-debug.log

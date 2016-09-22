@@ -1,0 +1,12 @@
+{
+  "apps" : [{
+    "name"        : "driver-service",
+    "script"      : "app.js",
+    "watch"       : true,
+    "merge_logs"  : true,
+    "cwd"         : "/path/to/folder",
+    "env": {
+        "NODE_ENV": "production"
+    }
+  }]
+}
